@@ -14,6 +14,9 @@
    ![](img/img.png)
    
 3. Evidencia del funcionamiento de la aplicación
-   ![](https://youtu.be/3rQRIAG0Y28)
-#Creado por:
+   https://youtu.be/3rQRIAG0Y28
+   
+   
+   
+##Creado por:
 -Santiago Agustin Laiton Cubides
